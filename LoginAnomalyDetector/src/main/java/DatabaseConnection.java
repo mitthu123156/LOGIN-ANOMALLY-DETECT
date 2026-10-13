@@ -9,7 +9,7 @@ public class DatabaseConnection {
 
         String url = "jdbc:mysql://localhost:3306/login_anomaly_detector";
         String username = "root";
-        String password = "Pupu1901@sdkv";
+        String password = "...";
 
         try {
 
